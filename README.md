@@ -39,9 +39,6 @@ I am a developer focused on software engineering and computing fundamentals. Mas
 
 Spezialisiert auf die Entwicklung von geschäftskritischen Systemen. Ich kombiniere die Effizienz von **C** mit der Skalierbarkeit von **Java**, um robuste Lösungen für komplexe Probleme zu schaffen.
 
-- **Expertise:** Backend-Entwicklung, Datenbankoptimierung (SQL) und moderne Benutzeroberflächen.
-- **Fokus:** Performance-Optimierung und saubere Software-Architektur.
-
 ---
 
 ## 🇪🇸 Español
@@ -53,9 +50,12 @@ Desarrollador con un enfoque profundo en la ingeniería y los fundamentos de la 
 ---
 
 ### 💡 How I Can Help You | Como posso ajudar
-- **Full-Stack Development:** Entrega de aplicações ponta a ponta (Java/JavaScript).
-- **High-Performance C & Java:** Otimização de sistemas críticos para máxima eficiência e baixa latência.
-- **System Integration:** Conexão de backends complexos com interfaces front-end de alta performance.
+
+* **Full-Stack Architecture:** Entrega de ecossistemas completos, unindo backends robustos em **Java/PHP** a interfaces de alta performance em **Vanilla JS**.
+* **High-Performance Engineering:** Otimização de sistemas críticos em **C** e **Java**, focando em baixa latência, gestão de memória e eficiência algorítmica.
+* **Infrastructure & Security Hardening:** Implementação de infraestruturas resilientes e seguras com **Python**, aplicando conceitos de *defensive programming* e *system hardening*.
+* **Relational Engineering & Data Modeling:** Modelagem de dados complexos e otimização de queries **SQL** para garantir integridade e escalabilidade (SARE methodology).
+* **System Integration:** Conexão de sistemas legados e modernos, garantindo uma comunicação fluida entre baixo nível e camadas de aplicação.
 
 ---
 
@@ -88,8 +88,7 @@ Desarrollador con un enfoque profundo en la ingeniería y los fundamentos de la 
   Arquitetura backend de nível corporativo focada em resiliência e padrões robustos. 🚀
 * **[📊 SQL Architecture Relational Engineering (SARE)](https://github.com/kauandias747474-hue/SQL-Architecture-Relational-Engineering-SARE)**
   Modelagem de dados avançada e otimização de performance em bancos relacionais. 💾
-* **[🎨 Matiz Project](https://github.com/kauandias747474-hue/kauandias747474-matiz)**
-  Componentes e lógica especializada para manipulação e arquitetura visual. 🎭
+
 
 ---
 
@@ -116,5 +115,3 @@ Desarrollador con un enfoque profundo en la ingeniería y los fundamentos de la 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauandias747474-hue&layout=compact&theme=radical"/>
 </p>
-
-*"Construindo sistemas com soberania técnica e excelência em engenharia."*
