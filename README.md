@@ -62,12 +62,15 @@ Desarrollador con un enfoque profundo en la ingeniería y los fundamentos de la 
 ### 🛠️ Tecnologias & Ecossistema | Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **Backend:** Java (Architecture & Clean Code), C (Systems & Core Logic), SQL.
+- **Backend:** Java (Architecture & Clean Code), C (Systems & Core Logic), SQL, PHP, Python.
 - **Frontend:** Vanilla JS Engineering, CSS3/HTML5 Performance Hub.
-- **Data:** Database Modeling and SQL Optimization.
+- **Data:** Database Modeling and SQL Optimization (SARE).
 
 ---
 
@@ -79,6 +82,12 @@ Desarrollador con un enfoque profundo en la ingeniería y los fundamentos de la 
   Interfaces de alta performance focadas em Critical Rendering Path. ⚡
 * **[⚙️ C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)**
   Algoritmos otimizados e gestão rigorosa de memória em nível de sistema. 🧠
+* **[🛡️ Python Ultra Hardened Infrastructure (UHI)](https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-)**
+  Engenharia de infraestrutura focada em segurança defensiva e hardening. 🐍
+* **[🐘 Robust PHP Core Enterprise Architecture](https://github.com/kauandias747474-hue/Robust-PHP-Core-Enterprise-Grade-Backend-Archit...)**
+  Arquitetura backend de nível corporativo focada em resiliência e padrões robustos. 🚀
+* **[📊 SQL Architecture Relational Engineering (SARE)](https://github.com/kauandias747474-hue/SQL-Architecture-Relational-Engineering-SARE)**
+  Modelagem de dados avançada e otimização de performance em bancos relacionais. 💾
 
 ---
 
