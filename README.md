@@ -88,6 +88,8 @@ Desarrollador con un enfoque profundo en la ingeniería y los fundamentos de la 
   Arquitetura backend de nível corporativo focada em resiliência e padrões robustos. 🚀
 * **[📊 SQL Architecture Relational Engineering (SARE)](https://github.com/kauandias747474-hue/SQL-Architecture-Relational-Engineering-SARE)**
   Modelagem de dados avançada e otimização de performance em bancos relacionais. 💾
+* **[🎨 Matiz Project](https://github.com/kauandias747474-hue/kauandias747474-matiz)**
+  Componentes e lógica especializada para manipulação e arquitetura visual. 🎭
 
 ---
 
@@ -103,6 +105,8 @@ Desarrollador con un enfoque profundo en la ingeniería y los fundamentos de la 
 <p align="left">
   <a href="https://www.linkedin.com/in/kauan-oliveira-119934336/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://www.upwork.com/freelancers/~01ad97279bec18a667"><img src="https://img.shields.io/badge/Upwork-Verified-green?logo=upwork&style=for-the-badge" /></a>
+  <a href="https://developers.turing.com/dashboard/applications"><img src="https://img.shields.io/badge/Turing-Profile-blueviolet?logo=turing&style=for-the-badge" /></a>
+  <a href="https://www.99freelas.com.br/dashboard"><img src="https://img.shields.io/badge/99Freelas-Profile-00aff0?style=for-the-badge" /></a>
 </p>
 
 ---
