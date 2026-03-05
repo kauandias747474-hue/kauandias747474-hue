@@ -6,52 +6,57 @@
 [Português](#-português) | [English](#-english) | [Deutsch](#-deutsch) | [Español](#-español)
 
 ---
+# 🇧🇷 Português
+**Engenheiro de Software | Desenvolvedor Backend & Front-end em evolução**
 
-## 🇧🇷 Português
-**Engenheiro de Software | Software Engineering & Low-Level Enthusiast**
+Sou um desenvolvedor focado em criar sistemas robustos e eficientes. Trabalho com o desenvolvimento de soluções escaláveis, prezando sempre pela qualidade do código, evolução constante do software e uso das melhores práticas de mercado.
 
-Sou um desenvolvedor focado em engenharia de software e nos fundamentos da computação. Sigo uma metodologia de análise técnica profunda e estudo de documentação oficial, consolidando soluções robustas para sistemas de alta performance através de evolução constante e refatoração precisa.
-
-### 📖 Abordagem Técnica
-- **Design de Sistemas:** Modelagem técnica e análise de complexidade algorítmica (Big O) pré-implementação.
-- **Engenharia de Fundamentos:** Imersão em literatura técnica sobre lógica, algoritmos e arquitetura.
-- **Documentação:** Estudo de especificações oficiais (ISO C / Java LTS) para domínio dos internals do software.
+### 🛠️ Foco Principal
+- **Backend:** Desenvolvimento de serviços, APIs e integração de sistemas.
+- **Front-end:** Em constante evolução, criando interfaces modernas e funcionais.
+- **Arquitetura:** Criação de sistemas resilientes e bem estruturados.
+- **Refatoração:** Melhoria contínua de código para facilitar a manutenção.
 
 ---
 
 ## 🇺🇸 English
-**Software Engineer | Software Engineering & Low-Level Enthusiast**
+**Software Engineer | Backend & Evolving Front-end Developer**
 
-I am a developer focused on software engineering and computing fundamentals. I follow a methodology of deep technical analysis and study of official documentation, consolidating robust solutions for high-performance systems through constant evolution and precise refactoring.
+I am a developer focused on building robust and efficient systems. I work on developing scalable solutions, always prioritizing code quality, constant software evolution, and the use of industry best practices.
 
-### 📖 Technical Approach
-- **System Design:** Technical modeling and algorithmic complexity analysis (Big O) pre-implementation.
-- **Foundational Engineering:** Immersion in technical literature on logic, algorithms, and architecture.
-- **Documentation:** Study of official specifications (ISO C / Java LTS) to master software internals.
+### 🛠️ Main Focus
+- **Backend:** Developing services, APIs, and system integration.
+- **Front-end:** Constantly evolving, building modern and functional interfaces.
+- **Architecture:** Creating resilient and well-structured systems.
+- **Refactoring:** Continuous code improvement for better maintainability.
 
 ---
 
 ## 🇩🇪 Deutsch
-**Softwareingenieur | Software Engineering & Low-Level Enthusiast**
+**Softwareingenieur | Backend- & Evolving Front-end-Entwickler**
 
-Ich bin ein Entwickler, der sich auf Software-Engineering und die Grundlagen der Informatik konzentriert. Ich folge einer Methodik der tiefen technischen Analyse und des Studiums offizieller Dokumentationen, um robuste Lösungen für Hochleistungssysteme durch ständige Weiterentwicklung und präzises Refactoring zu konsolidieren.
+Ich bin ein Entwickler, der sich auf den Aufbau robuster und effizienter Systeme konzentriert. Ich arbeite an der Entwicklung skalierbarer Lösungen und lege dabei stets Wert auf Codequalität, ständige Software-Weiterentwicklung und die Nutzung bewährter Branchenpraktiken.
 
-### 📖 Technischer Ansatz
-- **Systemdesign:** Technische Modellierung und Analyse der algorithmischen Komplexität (Big O) vor der Implementierung.
-- **Grundlagenforschung:** Eintauchen in die Fachliteratur zu Logik, Algorithmen und Architektur.
-- **Dokumentation:** Studium offizieller Spezifikationen (ISO C / Java LTS), um die Interna der Software zu beherrschen.
+### 🛠️ Hauptfokus
+- **Backend:** Entwicklung von Diensten, APIs und Systemintegration.
+- **Front-end:** Ständige Weiterentwicklung, Erstellung moderner und funktionaler Schnittstellen.
+- **Architektur:** Erstellung robuster und gut strukturierter Systeme.
+- **Refactoring:** Kontinuierliche Code-Verbesserung für bessere Wartbarkeit.
 
 ---
 
 ## 🇪🇸 Español
-**Ingeniero de Software | Software Engineering & Low-Level Enthusiast**
+**Ingeniero de Software | Desarrollador Backend y Front-end en evolución**
 
-Soy un desarrollador centrado en la ingeniería de software y los fundamentos de la computación. Sigo una metodología de análisis técnico profundo y estudio de documentación oficial, consolidando soluciones robustas para sistemas de alto rendimiento a través de una evolución constante y una refactorización precisa.
+Soy un desarrollador enfocado en construir sistemas robustos y eficientes. Trabajo en el desarrollo de soluciones escalables, priorizando siempre la calidad del código, la evolución constante del software y el uso de las mejores prácticas de la industria.
 
-### 📖 Enfoque Técnico
-- **Diseño de Sistemas:** Modelado técnico y análisis de complejidad algorítmica (Big O) previa a la implementación.
-- **Ingeniería de Fundamentos:** Inmersión en literatura técnica sobre lógica, algoritmos y arquitectura.
-- **Documentación:** Estudio de especificaciones oficiales (ISO C / Java LTS) para dominar los aspectos internos del software.
+### 🛠️ Enfoque Principal
+- **Backend:** Desarrollo de servicios, APIs e integración de sistemas.
+- **Front-end:** En constante evolución, creando interfaces modernas y funcionales.
+- **Arquitectura:** Creación de sistemas resilientes y bien estructurados.
+- **Refactorización:** Mejora continua del código para facilitar el mantenimiento.
+
+---
 
 ---
 
