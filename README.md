@@ -8,7 +8,6 @@
 ---
 
 ## 🇧🇷 Português
-
 **Engenheiro de Software | Software Engineering & Low-Level Enthusiast**
 
 Sou um desenvolvedor focado em engenharia de software e nos fundamentos da computação. Sigo uma metodologia de análise técnica profunda e estudo de documentação oficial, consolidando soluções robustas para sistemas de alta performance através de evolução constante e refatoração precisa.
@@ -21,31 +20,38 @@ Sou um desenvolvedor focado em engenharia de software e nos fundamentos da compu
 ---
 
 ## 🇺🇸 English
+**Software Engineer | Software Engineering & Low-Level Enthusiast**
 
-**Software Engineer | System Architecture & Performance**
-
-I am a developer focused on software engineering and computing fundamentals. Mastering the stack from memory management in **C** to scalable services in **Java** and high-performance **Frontend** applications to deliver fast and reliable solutions.
+I am a developer focused on software engineering and computing fundamentals. I follow a methodology of deep technical analysis and study of official documentation, consolidating robust solutions for high-performance systems through constant evolution and precise refactoring.
 
 ### 📖 Technical Approach
-- **System Design:** Technical modeling and Big O complexity analysis before implementation.
-- **Foundational Engineering:** Mastering logic and architecture through high-level literature.
-- **Security-by-Design:** Integrating defensive programming as a core architectural pillar.
+- **System Design:** Technical modeling and algorithmic complexity analysis (Big O) pre-implementation.
+- **Foundational Engineering:** Immersion in technical literature on logic, algorithms, and architecture.
+- **Documentation:** Study of official specifications (ISO C / Java LTS) to master software internals.
 
 ---
 
 ## 🇩🇪 Deutsch
+**Softwareingenieur | Software Engineering & Low-Level Enthusiast**
 
-**Softwareentwickler | Systemarchitektur & Performance**
+Ich bin ein Entwickler, der sich auf Software-Engineering und die Grundlagen der Informatik konzentriert. Ich folge einer Methodik der tiefen technischen Analyse und des Studiums offizieller Dokumentationen, um robuste Lösungen für Hochleistungssysteme durch ständige Weiterentwicklung und präzises Refactoring zu konsolidieren.
 
-Spezialisiert auf die Entwicklung von geschäftskritischen Systemen. Ich kombiniere die Effizienz von **C** mit der Skalierbarkeit von **Java**, um robuste Lösungen für komplexe Probleme zu schaffen.
+### 📖 Technischer Ansatz
+- **Systemdesign:** Technische Modellierung und Analyse der algorithmischen Komplexität (Big O) vor der Implementierung.
+- **Grundlagenforschung:** Eintauchen in die Fachliteratur zu Logik, Algorithmen und Architektur.
+- **Dokumentation:** Studium offizieller Spezifikationen (ISO C / Java LTS), um die Interna der Software zu beherrschen.
 
 ---
 
 ## 🇪🇸 Español
+**Ingeniero de Software | Software Engineering & Low-Level Enthusiast**
 
-**Ingeniero de Software | Sistemas de Alto Rendimiento**
+Soy un desarrollador centrado en la ingeniería de software y los fundamentos de la computación. Sigo una metodología de análisis técnico profundo y estudio de documentación oficial, consolidando soluciones robustas para sistemas de alto rendimiento a través de una evolución constante y una refactorización precisa.
 
-Desarrollador con un enfoque profundo en la ingeniería y los fundamentos de la computación. Mi objetivo es crear software eficiente y seguro, conectando la lógica de bajo nivel con aplicaciones web modernas.
+### 📖 Enfoque Técnico
+- **Diseño de Sistemas:** Modelado técnico y análisis de complejidad algorítmica (Big O) previa a la implementación.
+- **Ingeniería de Fundamentos:** Inmersión en literatura técnica sobre lógica, algoritmos y arquitectura.
+- **Documentación:** Estudio de especificaciones oficiales (ISO C / Java LTS) para dominar los aspectos internos del software.
 
 ---
 
