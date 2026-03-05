@@ -90,13 +90,6 @@ Desarrollador con un enfoque profundo en la ingeniería y los fundamentos de la 
   Modelagem de dados avançada e otimização de performance em bancos relacionais. 💾
 
 
----
-
-### 📚 Biblioteca de Engenharia | Engineering Bookshelf
-- **Fundamentos de Matemática Elementar** (Gelson Iezzi)
-- **Clean Code** (Robert C. Martin)
-- **Modern C** (Jens Gustedt)
-- **Effective Java** (Joshua Bloch)
 
 ---
 
