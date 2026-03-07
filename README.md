@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=200&section=header&text=Kauan%20Oliveira&fontSize=70&fontAlignY=45&desc=Software%20Engineer%20%E2%80%A2%20Systems%20Architect&descSize=22&descAlignY=65&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=200&section=header&text=Kauan%20Oliveira&fontSize=70&fontAlignY=45&desc=Software%20Engineer%20•%20Systems%20Architect&descSize=22&descAlignY=65&fontColor=ffffff" width="100%"/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/kauan-oliveira-119934336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,10 +18,9 @@ Olá! Sou o **Kauan Oliveira**, desenvolvedor de 19 anos focado na engenharia de
 
 Minha abordagem prioriza a compreensão real de como o software interage com a máquina. Por isso, transito entre a gestão rigorosa de recursos em **C** e **Java**, o desenvolvimento de backends corporativos resilientes em **PHP (Core)** e **Python**, e a criação de interfaces modernas de alta performance. Aplico rigorosamente os princípios de **Clean Architecture** e **S.O.L.I.D** para garantir que cada projeto seja modular, sustentável e preparado para grandes escalas.
 
-Desenvolvo soluções autorais que vão desde o núcleo de motores de execução até sistemas distribuídos, sempre com foco em entregar código limpo e resultados de alto impacto técnico.
-
 * **📍 Localização:** Rio de Janeiro, Brasil 🇧🇷
-* **🌐 Idiomas:** Fluência técnica em Português e Inglês; estudos ativos em Alemão, Espanhol, Francês e Italiano.
+* **🌐 Idiomas:** * **Entendimento:** Português e Inglês.
+  * **Estudo Ativo:** Alemão, Espanhol, Francês e Italiano.
 
 ---
 
@@ -57,12 +56,12 @@ Desenvolvo soluções autorais que vão desde o núcleo de motores de execução
 
 | Projeto | Especialidade |
 | :--- | :--- |
-| **🏗️ [Java Backend Architecture](https://github.com/kauandias747474-hue/Java-Backend-Architecture)** | Arquiteturas desacopladas e escaláveis focadas em alta disponibilidade. |
-| **🛡️ [Python Infrastructure](https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-)** | Automação de infraestrutura segura e lógica de sistemas defensiva. |
-| **🐘 [PHP Enterprise Core](https://github.com/kauandias747474-hue/Robust-PHP-Core-Enterprise-Grade-Backend-Archit...)** | Core autoral robusto para aplicações corporativas resilientes. |
-| **📊 [SQL Relational Engineering](https://github.com/kauandias747474-hue/SQL-Architecture-Relational-Engineering-SARE-)** | Modelagem avançada e otimização de performance em bancos relacionais. |
-| **⚙️ [C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)** | Otimização de recursos críticos e lógica de sistemas de baixo nível. |
-| **⚡ [Front-end Performance Hub](https://github.com/kauandias747474-hue/front-end-performance-hub)** | Interfaces web otimizadas focadas em Critical Rendering Path. |
+| **🏗️ [Java Backend Architecture](https://github.com/kauandias747474-hue/Java-Backend-Architecture)** | Arquiteturas desacopladas e escaláveis. |
+| **🛡️ [Python Infrastructure](https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-)** | Automação e lógica de sistemas defensiva. |
+| **🐘 [PHP Enterprise Core](https://github.com/kauandias747474-hue/Robust-PHP-Core-Enterprise-Grade-Backend-Archit...)** | Core autoral robusto para aplicações resilientes. |
+| **📊 [SQL Relational Engineering](https://github.com/kauandias747474-hue/SQL-Architecture-Relational-Engineering-SARE-)** | Modelagem avançada e otimização de performance. |
+| **⚙️ [C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)** | Otimização de recursos e lógica de baixo nível. |
+| **⚡ [Front-end Performance Hub](https://github.com/kauandias747474-hue/front-end-performance-hub)** | Foco em Critical Rendering Path e UX. |
 
 ---
 
