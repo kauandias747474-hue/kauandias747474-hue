@@ -27,24 +27,29 @@ Desenvolvo soluções autorais que vão desde o núcleo de motores de execução
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
-**Backend & Core** <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-**Front-end Performance**
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-
-**Workflow & Tools**
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <b>Backend & Core</b><br/><br/>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
+      <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>Front-end Performance</b><br/><br/>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    </td>
+    <td width="34%" align="center" valign="top">
+      <b>Workflow & Tools</b><br/><br/>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,7 +68,7 @@ Desenvolvo soluções autorais que vão desde o núcleo de motores de execução
 
 ### 📊 GitHub Analysis
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauandias747474-hue&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Kauan Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauandias747474-hue&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="150" />
+</p>
