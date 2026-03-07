@@ -1,110 +1,86 @@
-# Olá, eu sou o Kauan Oliveira 👋
+# 🚀 Kauan Oliveira | Software Engineering & System Architecture
 
-> **Software Engineer | High-Performance Systems & Scalable Architecture** 🚀  
-> *Bridging the gap between Low-Level Efficiency and Modern Frontend Excellence.*
+> **High-Performance Systems | Scalable Backend | Low-Level Efficiency** > *Bridging the gap between hardware-level performance and modern enterprise excellence.*
 
 [Português](#-português) | [English](#-english) | [Deutsch](#-deutsch) | [Español](#-español)
 
 ---
-# 🇧🇷 Português
-**Engenheiro de Software | Desenvolvedor Backend & Front-end em evolução**
 
-Sou um desenvolvedor focado em criar sistemas robustos e eficientes. Trabalho com o desenvolvimento de soluções escaláveis, prezando sempre pela qualidade do código, evolução constante do software e uso das melhores práticas de mercado.
+## 🇧🇷 Português
+**Engenheiro de Software | Especialista em Backend & Sistemas de Alta Disponibilidade**
 
-### 🛠️ Foco Principal
-- **Backend:** Desenvolvimento de serviços, APIs e integração de sistemas.
-- **Front-end:** Em constante evolução, criando interfaces modernas e funcionais.
-- **Arquitetura:** Criação de sistemas resilientes e bem estruturados.
-- **Refatoração:** Melhoria contínua de código para facilitar a manutenção.
+Olá! Sou o Kauan, um Engenheiro de Software de 19 anos baseado no Rio de Janeiro. Sou movido pela paixão por arquitetura de software de alto impacto e sistemas resilientes. Atualmente, foco meus estudos e projetos na construção de infraestruturas escaláveis, equilibrando performance técnica com eficiência operacional e segurança defensiva.
+
+### 🛠️ Foco Estratégico
+- **Arquitetura Distribuída:** Design de sistemas prontos para escala global e tolerância a falhas.
+- **Engenharia de Baixo Nível:** Otimização de recursos e gestão rigorosa de memória (C/Java).
+- **Mentalidade "Vanilla-First":** Foco nos fundamentos das linguagens para garantir longevidade e performance.
+- **Security Hardening:** Implementação de infraestruturas seguras e código defensivo.
 
 ---
 
 ## 🇺🇸 English
-**Software Engineer | Backend & Evolving Front-end Developer**
+**Software Engineer | Backend Specialist & High-Availability Systems**
 
-I am a developer focused on building robust and efficient systems. I work on developing scalable solutions, always prioritizing code quality, constant software evolution, and the use of industry best practices.
+Hello! I'm Kauan, a 19-year-old Software Engineer based in Rio de Janeiro, Brazil. Driven by a deep passion for high-impact software development, I specialize in building high-availability systems and scalable architectures. My approach balances technical performance with operational efficiency, focusing on the core fundamentals of distributed systems that support large-scale business infrastructures.
 
-### 🛠️ Main Focus
-- **Backend:** Developing services, APIs, and system integration.
-- **Front-end:** Constantly evolving, building modern and functional interfaces.
-- **Architecture:** Creating resilient and well-structured systems.
-- **Refactoring:** Continuous code improvement for better maintainability.
+### 🛠️ Strategic Focus
+- **Distributed Architecture:** Designing resilient systems ready for global scale and fault tolerance.
+- **Low-Level Engineering:** Resource optimization and rigorous memory management (C/Java).
+- **Vanilla-First Philosophy:** Prioritizing language fundamentals to ensure software longevity.
+- **Security Hardening:** Implementation of secure infrastructures and defensive programming.
 
 ---
 
 ## 🇩🇪 Deutsch
-**Softwareingenieur | Backend- & Evolving Front-end-Entwickler**
+**Softwareingenieur | Backend-Spezialist & Hochverfügbarkeitssysteme**
 
-Ich bin ein Entwickler, der sich auf den Aufbau robuster und effizienter Systeme konzentriert. Ich arbeite an der Entwicklung skalierbarer Lösungen und lege dabei stets Wert auf Codequalität, ständige Software-Weiterentwicklung und die Nutzung bewährter Branchenpraktiken.
-
-### 🛠️ Hauptfokus
-- **Backend:** Entwicklung von Diensten, APIs und Systemintegration.
-- **Front-end:** Ständige Weiterentwicklung, Erstellung moderner und funktionaler Schnittstellen.
-- **Architektur:** Erstellung robuster und gut strukturierter Systeme.
-- **Refactoring:** Kontinuierliche Code-Verbesserung für bessere Wartbarkeit.
+Hallo! Ich bin Kauan, ein 19-jähriger Softwareingenieur aus Rio de Janeiro, Brasilien. Aus Leidenschaft für die Entwicklung hochwirksamer Software konzentriere ich mich auf den Aufbau von Hochverfügbarkeitssystemen und skalierbaren Architekturen. Ich lege Wert auf ein Gleichgewicht zwischen technischer Leistung und betrieblicher Effizienz.
 
 ---
 
 ## 🇪🇸 Español
-**Ingeniero de Software | Desarrollador Backend y Front-end en evolución**
+**Ingeniero de Software | Especialista en Backend y Sistemas de Alta Disponibilidad**
 
-Soy un desarrollador enfocado en construir sistemas robustos y eficientes. Trabajo en el desarrollo de soluciones escalables, priorizando siempre la calidad del código, la evolución constante del software y el uso de las mejores prácticas de la industria.
-
-### 🛠️ Enfoque Principal
-- **Backend:** Desarrollo de servicios, APIs e integración de sistemas.
-- **Front-end:** En constante evolución, creando interfaces modernas y funcionales.
-- **Arquitectura:** Creación de sistemas resilientes y bien estructurados.
-- **Refactorización:** Mejora continua del código para facilitar el mantenimiento.
+¡Hola! Soy Kauan, un Ingeniero de Software de 19 años basado en Río de Janeiro, Brasil. Apasionado por el desarrollo de software de alto impacto, me especializo en la construcción de sistemas de alta disponibilidad y arquitecturas escalables, equilibrando el rendimiento técnico con la eficiencia operativa.
 
 ---
 
----
-
-### 💡 How I Can Help You | Como posso ajudar
+### 💡 Core Expertise | Especialidades
 
 * **Full-Stack Architecture:** Entrega de ecossistemas completos, unindo backends robustos em **Java/PHP** a interfaces de alta performance em **Vanilla JS**.
-* **High-Performance Engineering:** Otimização de sistemas críticos em **C** e **Java**, focando em baixa latência, gestão de memória e eficiência algorítmica.
-* **Infrastructure & Security Hardening:** Implementação de infraestruturas resilientes e seguras com **Python**, aplicando conceitos de *defensive programming* e *system hardening*.
-* **Relational Engineering & Data Modeling:** Modelagem de dados complexos e otimização de queries **SQL** para garantir integridade e escalabilidade (SARE methodology).
-* **System Integration:** Conexão de sistemas legados e modernos, garantindo uma comunicação fluida entre baixo nível e camadas de aplicação.
+* **High-Performance Engineering:** Otimização de sistemas críticos em **C** e **Java**, focando em baixa latência e eficiência algorítmica.
+* **Infrastructure & Security Hardening:** Implementação de infraestruturas resilientes e seguras com **Python**, aplicando conceitos de *defensive programming*.
+* **Relational Engineering:** Modelagem de dados complexos e otimização de queries **SQL** (Metodologia SARE).
 
 ---
 
-### 🛠️ Tecnologias & Ecossistema | Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tech Stack | Tecnologias
 
-- **Backend:** Java (Architecture & Clean Code), C (Systems & Core Logic), SQL, PHP, Python.
-- **Frontend:** Vanilla JS Engineering, CSS3/HTML5 Performance Hub.
-- **Data:** Database Modeling and SQL Optimization (SARE).
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Java, C, Python, PHP, JavaScript (ES6+), SQL |
+| **Backend** | Clean Architecture, S.O.L.I.D, Distributed Systems, PHP Core |
+| **Frontend** | Vanilla JS Engineering, CSS3/HTML5 Performance Hub |
+| **Tools/OS** | Linux (EndeavourOS/Kali), Git, Docker, System Hardening |
+| **Data** | Database Modeling and SQL Optimization (SARE) |
 
 ---
 
-### 🚀 Projetos em Destaque | Featured Projects
+### 🚀 Featured Projects | Projetos em Destaque
 
 * **[🏗️ Java Backend Architecture](https://github.com/kauandias747474-hue/Java-Backend-Architecture)**
-  Sistemas escaláveis seguindo padrões Clean Architecture e S.O.L.I.D. ☕
-* **[🏛️ Front-End Performance Hub](https://github.com/kauandias747474-hue/front-end-performance-hub)**
-  Interfaces de alta performance focadas em Critical Rendering Path. ⚡
-* **[⚙️ C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)**
-  Algoritmos otimizados e gestão rigorosa de memória em nível de sistema. 🧠
+    Sistemas escaláveis seguindo padrões Clean Architecture e S.O.L.I.D. ☕
 * **[🛡️ Python Ultra Hardened Infrastructure (UHI)](https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-)**
-  Engenharia de infraestrutura focada em segurança defensiva e hardening. 🐍
+    Engenharia de infraestrutura focada em segurança defensiva e hardening. 🐍
 * **[🐘 Robust PHP Core Enterprise Architecture](https://github.com/kauandias747474-hue/Robust-PHP-Core-Enterprise-Grade-Backend-Archit...)**
-  Arquitetura backend de nível corporativo focada em resiliência e padrões robustos. 🚀
-* **[📊 SQL Architecture Relational Engineering (SARE)](https://github.com/kauandias747474-hue/SQL-Architecture-Relational-Engineering-SARE)**
-  Modelagem de dados avançada e otimização de performance em bancos relacionais. 💾
-
-
+    Arquitetura backend de nível corporativo focada em resiliência e padrões robustos. 🚀
+* **[⚙️ C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)**
+    Algoritmos otimizados e gestão rigorosa de memória em nível de sistema. 🧠
 
 ---
 
-## 🔗 Perfis Profissionais | Professional Profiles
+## 🔗 Professional Profiles | Perfis Profissionais
 <p align="left">
   <a href="https://www.linkedin.com/in/kauan-oliveira-119934336/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://www.upwork.com/freelancers/~01ad97279bec18a667"><img src="https://img.shields.io/badge/Upwork-Verified-green?logo=upwork&style=for-the-badge" /></a>
@@ -114,8 +90,13 @@ Soy un desarrollador enfocado en construir sistemas robustos y eficientes. Traba
 
 ---
 
-### 📊 Estatísticas | Stats
+### 📊 Stats | Estatísticas
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauandias747474-hue&layout=compact&theme=radical"/>
+</p>
+
+---
+<p align="center">
+  <i>"Code is poetry, but performance is reality."</i>
 </p>
