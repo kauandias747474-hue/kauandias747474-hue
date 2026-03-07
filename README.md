@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=200&section=header&text=Kauan%20Oliveira&fontSize=70&animation=fadeIn&fontAlignY=45&desc=Software%20Engineer%20•%20Systems%20Architect&descSize=22&descAlignY=65&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=200&section=header&text=Kauan%20Oliveira&fontSize=70&fontAlignY=45&desc=Software%20Engineer%20%E2%80%A2%20Systems%20Architect&descSize=22&descAlignY=65&fontColor=ffffff" width="100%"/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/kauan-oliveira-119934336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -7,17 +7,21 @@
     <a href="https://github.com/kauandias747474-hue"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-  <code><b>High-Performance Backend</b></code> • <code><b>Systems Architecture</b></code> • <code><b>Modern Front-end</b></code>
+  <code><b>High-Performance Backend</b></code> • <code><b>Systems Architecture</b></code> • <code><b>Modern Full-Stack</b></code>
 </div>
 
 ---
 
 ### ⚡ Sobre Mim
 
-Sou o **Kauan Oliveira**, um desenvolvedor movido pela construção de sistemas de alta integridade e performance. Minha abordagem é pautada pelo domínio dos fundamentos: da gestão rigorosa de recursos em **C** e **Java** à arquitetura de backends resilientes em **PHP** e **Python**. Não apenas escrevo código; eu desenho soluções escaláveis que priorizam a clareza arquitetural (**Clean Architecture/SOLID**) e a eficiência operacional. Com uma forte base em sistemas **Linux** e uma visão *Full Stack*, entrego interfaces de alta performance que se conectam a ecossistemas robustos.
+Olá! Sou o **Kauan Oliveira**, desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade e performance. Minha atuação é pautada pelo domínio técnico profundo e pela busca constante por arquiteturas que equilibram escalabilidade com eficiência operacional.
+
+Minha abordagem prioriza a compreensão real de como o software interage com a máquina. Por isso, transito entre a gestão rigorosa de recursos em **C** e **Java**, o desenvolvimento de backends corporativos resilientes em **PHP (Core)** e **Python**, e a criação de interfaces modernas de alta performance. Aplico rigorosamente os princípios de **Clean Architecture** e **S.O.L.I.D** para garantir que cada projeto seja modular, sustentável e preparado para grandes escalas.
+
+Desenvolvo soluções autorais que vão desde o núcleo de motores de execução até sistemas distribuídos, sempre com foco em entregar código limpo e resultados de alto impacto técnico.
 
 * **📍 Localização:** Rio de Janeiro, Brasil 🇧🇷
-* **🌐 Idiomas:** Português, Inglês, Alemão, Espanhol, Francês e Italiano.
+* **🌐 Idiomas:** Fluência técnica em Português e Inglês; estudos ativos em Alemão, Espanhol, Francês e Italiano.
 
 ---
 
@@ -25,20 +29,20 @@ Sou o **Kauan Oliveira**, um desenvolvedor movido pela construção de sistemas 
 
 <div align="center">
 
-**Backend & Core** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Backend & Core** <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 **Front-end Performance**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-**Infra & Workflow** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+**Workflow & Tools**
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
@@ -46,44 +50,14 @@ Sou o **Kauan Oliveira**, um desenvolvedor movido pela construção de sistemas 
 
 ### 🚀 Engenharia & Projetos
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <b>🏗️ Java Backend Architecture</b><br/>
-      Sistemas escaláveis com Clean Architecture e S.O.L.I.D.
-      <br/><a href="https://github.com/kauandias747474-hue/Java-Backend-Architecture">Ver Projeto →</a>
-    </td>
-    <td width="50%">
-      <b>🛡️ Python Infrastructure</b><br/>
-      Automação de infraestrutura segura e desenvolvimento defensivo.
-      <br/><a href="https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-">Ver Projeto →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🐘 PHP Enterprise Core</b><br/>
-      Arquitetura corporativa resiliente focada em padrões de projeto robustos.
-      <br/><a href="https://github.com/kauandias747474-hue/Robust-PHP-Core-Enterprise-Grade-Backend-Archit...">Ver Projeto →</a>
-    </td>
-    <td width="50%">
-      <b>📊 SQL Relational Engineering</b><br/>
-      Modelagem complexa e otimização de performance em bancos relacionais.
-      <br/><a href="https://github.com/kauandias747474-hue/SQL-Architecture-Relational-Engineering-SARE-">Ver Projeto →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>⚙️ C Systems Engineering</b><br/>
-      Engenharia de sistemas com foco em eficiência algorítmica e baixo nível.
-      <br/><a href="https://github.com/kauandias747474-hue/C-Systems-Engineering">Ver Projeto →</a>
-    </td>
-    <td width="50%">
-      <b>⚡ Front-end Performance Hub</b><br/>
-      Otimização de interface focada em Critical Rendering Path e UX fluida.
-      <br/><a href="https://github.com/kauandias747474-hue/front-end-performance-hub">Ver Projeto →</a>
-    </td>
-  </tr>
-</table>
+| Projeto | Especialidade |
+| :--- | :--- |
+| **🏗️ [Java Backend Architecture](https://github.com/kauandias747474-hue/Java-Backend-Architecture)** | Arquiteturas desacopladas e escaláveis focadas em alta disponibilidade. |
+| **🛡️ [Python Infrastructure](https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-)** | Automação de infraestrutura segura e lógica de sistemas defensiva. |
+| **🐘 [PHP Enterprise Core](https://github.com/kauandias747474-hue/Robust-PHP-Core-Enterprise-Grade-Backend-Archit...)** | Core autoral robusto para aplicações corporativas resilientes. |
+| **📊 [SQL Relational Engineering](https://github.com/kauandias747474-hue/SQL-Architecture-Relational-Engineering-SARE-)** | Modelagem avançada e otimização de performance em bancos relacionais. |
+| **⚙️ [C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)** | Otimização de recursos críticos e lógica de sistemas de baixo nível. |
+| **⚡ [Front-end Performance Hub](https://github.com/kauandias747474-hue/front-end-performance-hub)** | Interfaces web otimizadas focadas em Critical Rendering Path. |
 
 ---
 
