@@ -31,9 +31,7 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 ### 🛠️ Stacks
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,c,py,postgres,js,html,css,docker,git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,php,c,py,postgres,js,html,css,docker,git,linux,kali" />
 </p>
 
 ---
@@ -44,12 +42,10 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 
 ---
 
-### 📊 Stats
 ### 📊 GitHub Analysis
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff" height="150" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kauandias747474-hue&layout=compact&theme=dark&hide_border=true&title_color=58a6ff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff" height="150" />
 </p>
 
 ---
