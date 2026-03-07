@@ -1,102 +1,102 @@
-# 🚀 Kauan Oliveira | Software Engineering & System Architecture
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=200&section=header&text=Kauan%20Oliveira&fontSize=70&animation=fadeIn&fontAlignY=45&desc=Software%20Engineer%20•%20Systems%20Architect&descSize=22&descAlignY=65&fontColor=ffffff" width="100%"/>
 
-> **High-Performance Systems | Scalable Backend | Low-Level Efficiency** > *Bridging the gap between hardware-level performance and modern enterprise excellence.*
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kauan-oliveira-119934336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.upwork.com/freelancers/~01ad97279bec18a667"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+    <a href="https://github.com/kauandias747474-hue"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 
-[Português](#-português) | [English](#-english) | [Deutsch](#-deutsch) | [Español](#-español)
-
----
-
-## 🇧🇷 Português
-**Engenheiro de Software | Especialista em Backend & Sistemas de Alta Disponibilidade**
-
-Olá! Sou o Kauan, um Engenheiro de Software de 19 anos baseado no Rio de Janeiro. Sou movido pela paixão por arquitetura de software de alto impacto e sistemas resilientes. Atualmente, foco meus estudos e projetos na construção de infraestruturas escaláveis, equilibrando performance técnica com eficiência operacional e segurança defensiva.
-
-### 🛠️ Foco Estratégico
-- **Arquitetura Distribuída:** Design de sistemas prontos para escala global e tolerância a falhas.
-- **Engenharia de Baixo Nível:** Otimização de recursos e gestão rigorosa de memória (C/Java).
-- **Mentalidade "Vanilla-First":** Foco nos fundamentos das linguagens para garantir longevidade e performance.
-- **Security Hardening:** Implementação de infraestruturas seguras e código defensivo.
+  <code><b>High-Performance Systems</b></code> • <code><b>Scalable Backend</b></code> • <code><b>Low-Level Efficiency</b></code>
+</div>
 
 ---
 
-## 🇺🇸 English
-**Software Engineer | Backend Specialist & High-Availability Systems**
+### ⚡ Professional Profile
 
-Hello! I'm Kauan, a 19-year-old Software Engineer based in Rio de Janeiro, Brazil. Driven by a deep passion for high-impact software development, I specialize in building high-availability systems and scalable architectures. My approach balances technical performance with operational efficiency, focusing on the core fundamentals of distributed systems that support large-scale business infrastructures.
+Sou o **Kauan Oliveira**, Engenheiro de Software focado em sistemas de **alta disponibilidade** e arquiteturas resilientes. Minha atuação é pautada pelo equilíbrio entre performance técnica radical e eficiência operacional, utilizando uma mentalidade *Vanilla-First* para garantir longevidade e robustez ao software.
 
-### 🛠️ Strategic Focus
-- **Distributed Architecture:** Designing resilient systems ready for global scale and fault tolerance.
-- **Low-Level Engineering:** Resource optimization and rigorous memory management (C/Java).
-- **Vanilla-First Philosophy:** Prioritizing language fundamentals to ensure software longevity.
-- **Security Hardening:** Implementation of secure infrastructures and defensive programming.
+* **📍 Localização:** Rio de Janeiro, Brasil 🇧🇷
+* **🌐 Idiomas:** Português, Inglês, Alemão, Espanhol, Francês e Italiano.
+* **🎯 Especialidade:** Sistemas Distribuídos, Hardening de Infraestrutura e Engenharia de Backend.
 
 ---
 
-## 🇩🇪 Deutsch
-**Softwareingenieur | Backend-Spezialist & Hochverfügbarkeitssysteme**
+### 🛠️ Strategic Tech Stack
 
-Hallo! Ich bin Kauan, ein 19-jähriger Softwareingenieur aus Rio de Janeiro, Brasilien. Aus Leidenschaft für die Entwicklung hochwirksamer Software konzentriere ich mich auf den Aufbau von Hochverfügbarkeitssystemen und skalierbaren Architekturen. Ich lege Wert auf ein Gleichgewicht zwischen technischer Leistung und betrieblicher Effizienz.
+<div align="center">
 
----
+**Languages & Core** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🇪🇸 Español
-**Ingeniero de Software | Especialista en Backend y Sistemas de Alta Disponibilidad**
+**Infrastructure & Systems** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-¡Hola! Soy Kauan, un Ingeniero de Software de 19 años basado en Río de Janeiro, Brasil. Apasionado por el desarrollo de software de alto impacto, me especializo en la construcción de sistemas de alta disponibilidad y arquitecturas escalables, equilibrando el rendimiento técnico con la eficiencia operativa.
-
----
-
-### 💡 Core Expertise | Especialidades
-
-* **Full-Stack Architecture:** Entrega de ecossistemas completos, unindo backends robustos em **Java/PHP** a interfaces de alta performance em **Vanilla JS**.
-* **High-Performance Engineering:** Otimização de sistemas críticos em **C** e **Java**, focando em baixa latência e eficiência algorítmica.
-* **Infrastructure & Security Hardening:** Implementação de infraestruturas resilientes e seguras com **Python**, aplicando conceitos de *defensive programming*.
-* **Relational Engineering:** Modelagem de dados complexos e otimização de queries **SQL** (Metodologia SARE).
+</div>
 
 ---
 
-### 🛠️ Tech Stack | Tecnologias
+### 🚀 Engineering Portfolio (Main Repositories)
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Java, C, Python, PHP, JavaScript (ES6+), SQL |
-| **Backend** | Clean Architecture, S.O.L.I.D, Distributed Systems, PHP Core |
-| **Frontend** | Vanilla JS Engineering, CSS3/HTML5 Performance Hub |
-| **Tools/OS** | Linux (EndeavourOS/Kali), Git, Docker, System Hardening |
-| **Data** | Database Modeling and SQL Optimization (SARE) |
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>⚙️ C Systems Engineering</b><br/>
+      Algoritmos otimizados e gestão rigorosa de memória em nível de sistema.<br/>
+      <br/><a href="https://github.com/kauandias747474-hue/C-Systems-Engineering">Ver Repositório →</a>
+    </td>
+    <td width="50%">
+      <b>🏗️ Java Backend Architecture</b><br/>
+      Sistemas escaláveis seguindo padrões Clean Architecture e S.O.L.I.D.<br/>
+      <br/><a href="https://github.com/kauandias747474-hue/Java-Backend-Architecture">Ver Repositório →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🛡️ Python Ultra Hardened Infrastructure</b><br/>
+      Engenharia de infraestrutura focada em segurança defensiva e hardening.<br/>
+      <br/><a href="https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-">Ver Repositório →</a>
+    </td>
+    <td width="50%">
+      <b>🐘 Robust PHP Core Architecture</b><br/>
+      Arquitetura corporativa focada em resiliência e padrões robustos.<br/>
+      <br/><a href="https://github.com/kauandias747474-hue/Robust-PHP-Core-Enterprise-Grade-Backend-Archit...">Ver Repositório →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>📊 SQL Relational Engineering (SARE)</b><br/>
+      Modelagem de dados avançada e otimização de performance relacional.<br/>
+      <br/><a href="https://github.com/kauandias747474-hue/SQL-Architecture-Relational-Engineering-SARE-">Ver Repositório →</a>
+    </td>
+    <td width="50%">
+      <b>⚡ Front-end Performance Hub</b><br/>
+      Interfaces de alta performance focadas em Critical Rendering Path.<br/>
+      <br/><a href="https://github.com/kauandias747474-hue/front-end-performance-hub">Ver Repositório →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects | Projetos em Destaque
+### 📊 Performance Metrics
 
-* **[🏗️ Java Backend Architecture](https://github.com/kauandias747474-hue/Java-Backend-Architecture)**
-    Sistemas escaláveis seguindo padrões Clean Architecture e S.O.L.I.D. ☕
-* **[🛡️ Python Ultra Hardened Infrastructure (UHI)](https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-)**
-    Engenharia de infraestrutura focada em segurança defensiva e hardening. 🐍
-* **[🐘 Robust PHP Core Enterprise Architecture](https://github.com/kauandias747474-hue/Robust-PHP-Core-Enterprise-Grade-Backend-Archit...)**
-    Arquitetura backend de nível corporativo focada em resiliência e padrões robustos. 🚀
-* **[⚙️ C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)**
-    Algoritmos otimizados e gestão rigorosa de memória em nível de sistema. 🧠
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauandias747474-hue&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
 
 ---
 
-## 🔗 Professional Profiles | Perfis Profissionais
-<p align="left">
-  <a href="https://www.linkedin.com/in/kauan-oliveira-119934336/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://www.upwork.com/freelancers/~01ad97279bec18a667"><img src="https://img.shields.io/badge/Upwork-Verified-green?logo=upwork&style=for-the-badge" /></a>
-  <a href="https://developers.turing.com/dashboard/applications"><img src="https://img.shields.io/badge/Turing-Profile-blueviolet?logo=turing&style=for-the-badge" /></a>
-  <a href="https://www.99freelas.com.br/dashboard"><img src="https://img.shields.io/badge/99Freelas-Profile-00aff0?style=for-the-badge" /></a>
-</p>
-
----
-
-### 📊 Stats | Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauandias747474-hue&layout=compact&theme=radical"/>
-</p>
-
----
-<p align="center">
-  <i>"Code is poetry, but performance is reality."</i>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Code%20is%20poetry,%20but%20performance%20is%20reality.&author=Kauan%20Oliveira&theme=dark" width="450px" />
+  <br/>
+  <sub><i>"Building the future of software with Vanilla-First precision."</i></sub>
+</div>
