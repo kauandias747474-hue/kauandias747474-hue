@@ -19,36 +19,19 @@ Olá! Sou o **Kauan Oliveira**, desenvolvedor de 19 anos focado na engenharia de
 Minha abordagem prioriza a compreensão real de como o software interage com a máquina. Por isso, transito entre a gestão rigorosa de recursos em **C** e **Java**, o desenvolvimento de backends corporativos resilientes em **PHP (Core)** e **Python**, e a criação de interfaces modernas de alta performance. Aplico rigorosamente os princípios de **Clean Architecture** e **S.O.L.I.D** para garantir que cada projeto seja modular, sustentável e preparado para grandes escalas.
 
 * **📍 Localização:** Rio de Janeiro, Brasil 🇧🇷
-* **🌐 Idiomas:** * **Entendimento:** Português e Inglês.
+* **🌐 Idiomas:**
+  * **Entendimento:** Português e Inglês.
   * **Estudo Ativo:** Alemão, Espanhol, Francês e Italiano.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <b>Backend & Core</b><br/><br/>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
-      <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <b>Front-end Performance</b><br/><br/>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    </td>
-    <td width="34%" align="center" valign="top">
-      <b>Workflow & Tools</b><br/><br/>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-  </tr>
-</table>
+**Backend & Core**
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Front-end & Tools**
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 ---
 
