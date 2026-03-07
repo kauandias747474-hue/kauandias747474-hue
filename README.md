@@ -42,10 +42,14 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 
 ---
 
-### 📊 GitHub Analysis
+### 📊 Activity | Atividade
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff" height="150" />
+  <a href="https://github.com/kauandias747474-hue">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&labelColor=black&color=gray" />
+    <img src="https://img.shields.io/github/stars/kauandias747474-hue?style=flat-square&color=yellow&label=Stars" />
+    <img src="https://img.shields.io/github/followers/kauandias747474-hue?style=flat-square&color=blue&label=Followers" />
+  </a>
 </p>
 
 ---
