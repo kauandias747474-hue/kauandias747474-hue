@@ -6,7 +6,7 @@
 * 🔭 **Focus | Foco:** Systems Engineering & Backend Architecture / Engenharia de Sistemas & Arquitetura de Backend.
 * 🌱 **Learning | Aprendizado:** Modular kernels and international technical standards / Kernels modulares e padrões técnicos internacionais.
 * 📍 **Location | Localização:** Rio de Janeiro, Brazil 🇧🇷
-* 💬 **Discord:** kauandias747474_hue
+
 
 ---
 
