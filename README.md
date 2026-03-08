@@ -6,6 +6,7 @@
 * 🔭 **Focus | Foco:** Systems Engineering & Backend Architecture / Engenharia de Sistemas & Arquitetura de Backend.
 * 🌱 **Learning | Aprendizado:** Modular kernels and international technical standards / Kernels modulares e padrões técnicos internacionais.
 * 📍 **Location | Localização:** Rio de Janeiro, Brazil 🇧🇷
+* 💬 **Discord:** kauandias747474_hue
 
 ---
 
@@ -17,11 +18,10 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 
 ---
 
-
 ### 🛠️ Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,c,py,postgres,js,html,css,docker,git,linux,kali" />
+  <img src="https://skillicons.dev/icons?i=java,php,c,py,postgres,js,html,css,docker,git,linux,kali,discord" />
 </p>
 
 ---
@@ -40,6 +40,9 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
     <img src="https://img.shields.io/github/stars/kauandias747474-hue?style=flat-square&color=yellow&label=Stars" />
     <img src="https://img.shields.io/github/followers/kauandias747474-hue?style=flat-square&color=blue&label=Followers" />
   </a>
+  <a href="https://dev.to/kauan_dias_dcb9e0566058a5">
+    <img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=flat-square&logo=devto&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -48,6 +51,8 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kauan-oliveira-119934336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/kauan_dias_dcb9e0566058a5"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devto&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/~01ad97279bec18a667"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" /></a>
+  <a href="https://discord.com/users/kauandias747474_hue"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/kauandias747474-hue"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
