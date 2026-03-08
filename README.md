@@ -17,16 +17,6 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 
 ---
 
-### 🚀 Projects | Projetos
-
-* 🏗️ **[Java Backend](https://github.com/kauandias747474-hue/Java-Backend-Architecture)** – Decoupled and scalable architectures. / *Arquiteturas desacopladas e escaláveis.*
-* 🛡️ **[Python Infrastructure](https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-)** – Secure automation and defensive systems. / *Automação segura e sistemas defensivos.*
-* 🐘 **[PHP Enterprise Core](https://github.com/kauandias747474-hue/Robust-PHP-Core-Enterprise-Grade-Backend-Archit...)** – Robust custom core for corporate apps. / *Core autoral robusto para aplicações corporativas.*
-* 📊 **[SQL Engineering](https://github.com/kauandias747474-hue/SQL-Architecture-Relational-Engineering-SARE-)** – Advanced modeling and performance optimization. / *Modelagem avançada e otimização de performance.*
-* ⚙️ **[C Systems](https://github.com/kauandias747474-hue/C-Systems-Engineering)** – Low-level systems and resource optimization. / *Sistemas de baixo nível e otimização de recursos.*
-* ⚡ **[Front-end Hub](https://github.com/kauandias747474-hue/front-end-performance-hub)** – Critical Rendering Path and UX. / *Interfaces otimizadas e foco em UX.*
-
----
 
 ### 🛠️ Stacks
 
