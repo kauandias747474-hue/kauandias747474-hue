@@ -21,7 +21,7 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 ### 🛠️ Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,c,py,postgres,js,html,css,docker,git,linux,kali,discord" />
+  <img src="https://skillicons.dev/icons?i=java,php,c,py,postgres,js,html,css,docker,git,linux,kali" />
 </p>
 
 ---
