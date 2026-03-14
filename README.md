@@ -28,7 +28,7 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 
 ### 🌐 Languages | Idiomas
 
-**Português Nativo** &nbsp;|&nbsp; **Technical English (Advanced)** &nbsp;|&nbsp
+**Português Nativo** &nbsp;|&nbsp; **Technical English (Advanced)** 
 
 ---
 
