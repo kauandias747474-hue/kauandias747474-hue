@@ -1,21 +1,16 @@
 # 🧑‍💻 Kauan Oliveira
 
-**Software Engineer** and **Systems Architect** focused on high-performance backends (**Java**, **PHP**, **Python**) and robust data engineering (**SQL**). Specialized in **Clean Architecture** and **S.O.L.I.D** principles.
-**Engenheiro de Software** e **Arquiteto de Sistemas** focado em backends de alta performance (**Java**, **PHP**, **Python**) e engenharia de dados robusta (**SQL**). Especialista em **Clean Architecture** e princípios **S.O.L.I.D**.
+###  Sobre Mim | About Me
 
-* 🔭 **Focus | Foco:** Systems Engineering & Backend Architecture / Engenharia de Sistemas & Arquitetura de Backend.
-* 🌱 **Learning | Aprendizado:** Modular kernels and international technical standards / Kernels modulares e padrões técnicos internacionais.
-* 📍 **Location | Localização:** Rio de Janeiro, Brazil 🇧🇷
+*PT-BR: Engenheiro de Software de 19 anos focado em sistemas distribuídos e infraestrutura de alta performance. Especialista no design de ecossistemas resilientes e arquiteturas escaláveis, pautando cada entrega pelo rigor técnico e pela integridade de dados.*
 
+*EN: 19-year-old Software Engineer focused on distributed systems and high-performance infrastructure. Specialized in designing resilient ecosystems and scalable architectures, driven by technical rigor and data integrity in every delivery.*
 
+*  **Focus | Foco:** Systems Architecture & Distributed Infrastructure / Arquitetura de Sistemas & Infraestrutura Distribuída.
+*  **Learning | Aprendizado:** Performance optimization & Resilience patterns / Otimização de performance & Padrões de resiliência.
+*  **Location | Localização:** Rio de Janeiro, Brazil 🇧🇷
 ---
-### ⚡ Sobre Mim | About Me
 
-PT-BR: Engenheiro de Software focado no desenvolvimento de sistemas distribuídos e infraestrutura de alta performance. Especialista em projetar ecossistemas resilientes e arquiteturas escaláveis, priorizando o rigor técnico e a integridade de dados em cada solução
-
-EN: Software Engineer focused on building distributed systems and high-performance infrastructure. Specialized in designing resilient ecosystems and scalable architectures, prioritizing technical rigor and data integrity across every solution.
-
----
 ### 🛠️ Stacks
 
 <p align="left">
