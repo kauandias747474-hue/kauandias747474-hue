@@ -59,3 +59,4 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 
 [![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=vision-glow)](https://github.com/anuraghazal/github-readme-stats)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kauandias747474-hue&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
