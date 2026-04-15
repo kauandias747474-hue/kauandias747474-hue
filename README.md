@@ -63,5 +63,5 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 
 
 
-# My Status
-![Health Check](https://github.com/kauandias747474-hue/kauandias747474-hue/actions/workflows/health-check.yml/badge.svg)
+
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=kauandias747474-hue&theme=dracula&area=true&hide_border=true)
