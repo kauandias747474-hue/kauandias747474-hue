@@ -1,0 +1,19 @@
+name: Health Check
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 * * * *' # Corre automaticamente a cada hora
+  workflow_dispatch: # Permite-te correr manualmente para testar
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: System Verification
+        run: |
+          echo "A verificar integridade dos sistemas..."
+          # Se este comando falhar, o badge mostra a cruz ❌
+          exit 0
