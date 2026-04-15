@@ -17,11 +17,10 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 *19-year-old developer focused on high-integrity systems engineering. Driven by deep technical expertise, navigating between rigorous resource management in **Java**, resilient corporate backends in **PHP (Core)** and **Python**, and modern high-performance interfaces.*
 
 ---
-
 ### 🛠️ Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,py,postgres,js,html,css,docker,git,linux,kali" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,java,php,py,ts,postgres,docker,git,linux,kali" />
 </p>
 
 ---
