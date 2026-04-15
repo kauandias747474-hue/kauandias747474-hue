@@ -64,4 +64,3 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 </picture>
 
 
-
