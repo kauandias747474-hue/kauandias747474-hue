@@ -55,6 +55,13 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
   <a href="https://github.com/kauandias747474-hue"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
+
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauandias747474-hue&theme=tokyonight)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kauandias747474-hue&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
