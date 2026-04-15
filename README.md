@@ -9,12 +9,11 @@
 
 
 ---
-
 ### ⚡ Sobre Mim | About Me
 
-Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. Minha atuação é pautada pelo domínio técnico profundo, transitando entre a gestão rigorosa de recursos em **Java**, backends resilientes em **PHP (Core)** e **Python**, e a criação de interfaces modernas.
+PT-BR: Engenheiro de Software focado no desenvolvimento de sistemas distribuídos e infraestrutura de alta performance. Especialista em projetar ecossistemas resilientes e arquiteturas escaláveis, priorizando o rigor técnico e a integridade de dados em cada solução
 
-*19-year-old developer focused on high-integrity systems engineering. Driven by deep technical expertise, navigating between rigorous resource management in **Java**, resilient corporate backends in **PHP (Core)** and **Python**, and modern high-performance interfaces.*
+EN: Software Engineer focused on building distributed systems and high-performance infrastructure. Specialized in designing resilient ecosystems and scalable architectures, prioritizing technical rigor and data integrity across every solution.
 
 ---
 ### 🛠️ Stacks
