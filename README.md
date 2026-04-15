@@ -74,7 +74,10 @@
   <a href="https://github.com/kauandias747474-hue"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauandias747474-hue&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kauandias747474-hue&theme=tokyonight" width="48%" />
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauandias747474-hue&theme=tokyonight)](https://git.io/streak-stats)
 
