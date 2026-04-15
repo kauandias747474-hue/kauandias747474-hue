@@ -31,17 +31,17 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 ### 🏛️ Backend & Enterprise Engineering
 * **[Java-Ecosystem](https://github.com/kauandias747474-hue/Java-Ecosystem):** * **PT:** Engenharia de alto nível com SOLID e Clean Architecture.
     * **EN:** High-level engineering implementing SOLID and Clean Architecture.
-* **[PHP-CORE](https://github.com/kauandias747474-hue/PHP-CORE):** * **PT:** Backend seguro e arquitetura limpa aplicada ao ecossistema PHP.
-    * **EN:** Secure backend and clean architecture applied to the PHP ecosystem. (Completo/Complete)
+* **[PHP-CORE](https://github.com/kauandias747474-hue/PHP-CORE):**  **PT:** Backend seguro e arquitetura limpa aplicada ao ecossistema PHP.
+  **EN:** Secure backend and clean architecture applied to the PHP ecosystem. (Completo/Complete)
 * **[Python-UHI](https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-):** * **PT:** Automação de infraestrutura e lógica avançada (Decorators, Generators).
-    * **EN:** Infrastructure automation and advanced logic (Decorators, Generators). (Completo/Complete)
+  **EN:** Infrastructure automation and advanced logic (Decorators, Generators). (Completo/Complete)
 
 
 ### 📊 Data Engineering & UI
 * **[SQL-Architecture](https://github.com/kauandias747474-hue/-SQL-Architecture-Data-Engineering-Portfolio):** * **PT:** Design de bancos de dados relacionais e integridade de dados rigorosa.
-    * **EN:** Relational database design and rigorous data integrity.
+     **EN:** Relational database design and rigorous data integrity.
 * **[Prime-Engine](https://github.com/kauandias747474-hue/prime-engine):** * **PT:** Interface e lógica de frontend em TypeScript.
-    * **EN:** Frontend interface and logic in TypeScript. (Em Construção/In Construction)
+     **EN:** Frontend interface and logic in TypeScript. (Em Construção/In Construction)
 
 
 ###  (In Construction / Em Construção)
