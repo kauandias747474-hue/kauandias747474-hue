@@ -23,7 +23,7 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
   <img src="https://skillicons.dev/icons?i=cs,dotnet,go,java,php,py,ts,postgres,docker,git,linux,kali" />
 </p>
 
----
+
 ##  (All Projects)
 
 
