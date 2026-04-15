@@ -62,4 +62,6 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kauandias747474-hue&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![Health Check](https://github.com/kauandias747474-hue/kauandias747474-hue/actions/workflows/health-check.yml/badge.svg)](https://github.com/kauandias747474-hue/kauandias747474-hue/actions)
+
+# My Status
+![Health Check](https://github.com/kauandias747474-hue/kauandias747474-hue/actions/workflows/health-check.yml/badge.svg)
