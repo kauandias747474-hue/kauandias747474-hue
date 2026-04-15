@@ -54,3 +54,14 @@ Desenvolvedor de 19 anos focado na engenharia de sistemas de alta integridade. M
   <a href="https://discord.com/users/kauandias747474_hue"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/kauandias747474-hue"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
+
+## Meu Gráfico de Contribuições (Snake Game)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauandias747474-hue/kauandias747474-hue/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauandias747474-hue/kauandias747474-hue/output/github-contribution-grid-snake.svg">
+  <img alt="Github snake game" src="https://raw.githubusercontent.com/kauandias747474-hue/kauandias747474-hue/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
