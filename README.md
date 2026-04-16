@@ -37,12 +37,14 @@
      **EN:** Frontend interface and logic in TypeScript. (Em Construção/In Construction)
 
 
-###  (In Construction / Em Construção)
+### 🏗️ (In Construction / Em Construção)
+
 | Project | Language | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **C#-Stream** | C# (.NET 9) | Channels, SignalR, BackgroundService | 🛠️ Building Core Engine |
+| **Rust-Metrics** | Rust | SIMD, Lock-Free Data, Low-Latency Aggregation | 🦀 Optimizing Performance |
 | **Go-Gateway** | Go (Golang) | Goroutines, Rate Limiting, Circuit Breaker | 🛠️ Scaling Infrastructure |
-
+| **C#-Stream** | C# (.NET 9) | Channels, SignalR, BackgroundService | 🛠️ Building Core Engine |
+| **Ruby-Orchestrator** | Ruby | DSL Design, Resilient Pipelines, Workflow Automation | 💎 Architecting Flows |
 ---
 
 ### 🌐 Languages | Idiomas
