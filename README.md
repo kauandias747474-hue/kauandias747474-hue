@@ -14,7 +14,7 @@
 ### 🛠️ Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,go,java,cpp,php,py,ruby,ts,nextjs,mysql,postgres,docker,git,linux,kali" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,go,java,cpp,php,py,ruby,ts,nextjs,js,mysql,postgres,docker,git,linux,kali" />
 </p>
 
 ##  (All Projects)
