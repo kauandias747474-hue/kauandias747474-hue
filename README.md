@@ -49,14 +49,18 @@
     * **PT:** Engenharia corporativa seguindo rigorosamente SOLID e Clean Architecture.
     * **EN:** Enterprise engineering strictly following SOLID and Clean Architecture. (Em Construção/In Construction)
  
+* **[Real-Time Metrics](https://github.com/kauandias747474-hue/Real-Time-Metrics):**
+   * **PT:** Motor de telemetria multilinguagem (Rust/C++/Go/Python) com otimizações SIMD e estruturas lock-free para processamento de dados massivos.
+   * **EN:** Multi-language telemetry engine (Rust/C++/Go/Python) featuring SIMD optimizations and lock-free structures for massive data processing.(Em Construção/In Construction)
+ 
 > **(PT-BR):** Foco na orquestração de processos complexos e governança de execução. Desenvolvimento de motores de workflow resilientes que transformam scripts frágeis em pipelines governados, garantindo rastreabilidade, tolerância a falhas e desacoplamento lógico.
 > **(EN-US):** Focused on complex process orchestration and execution governance. Developing resilient workflow engines that transform fragile scripts into governed pipelines, ensuring traceability, fault tolerance, and logical decoupling.
-      
+
+
 ### 🏗️ (In Construction / Em Construção)
 
 | Project | Language | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Rust-Metrics** | Rust | SIMD, Lock-Free Data, Low-Latency Aggregation | 🦀 Optimizing Performance |
 | **Go-Gateway** | Go (Golang) | Goroutines, Rate Limiting, Circuit Breaker | 🛠️ Scaling Infrastructure |
 | **C#-Stream** | C# (.NET 9) | Channels, SignalR, BackgroundService | 🛠️ Building Core Engine |
 ---
