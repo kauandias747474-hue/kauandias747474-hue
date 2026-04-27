@@ -11,7 +11,7 @@
 *  **Location | Localização:** Rio de Janeiro, Brazil 🇧🇷
 ---
 
-### 🛠️ Stacks
+###  Stacks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,go,java,cpp,php,py,ruby,ts,js,nextjs,react,tailwindcss,mysql,postgres,docker,git,linux,kali" />
@@ -20,7 +20,7 @@
 ##  (All Projects)
 
 
-### 🏛️ Backend & Enterprise Engineering
+###  Backend & Enterprise Engineering
 * **[PHP-CORE](https://github.com/kauandias747474-hue/PHP-CORE):**  **PT:** Backend seguro e arquitetura limpa aplicada ao ecossistema PHP.
   **EN:** Secure backend and clean architecture applied to the PHP ecosystem. (Completo/Complete)
 * **[Python-UHI](https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-):** * **PT:** Automação de infraestrutura e lógica avançada (Decorators, Generators).
@@ -30,7 +30,7 @@
 > **(EN-US):** Focused on building robust and scalable enterprise systems. Strict application of design patterns (SOLID, Clean Architecture) and contract-driven development to ensure software is maintainable and evolvable over the long term.
 
 
-### 📊 Data Engineering & UI
+###  Data Engineering & UI
 * **[SQL-Architecture](https://github.com/kauandias747474-hue/-SQL-Architecture-Data-Engineering-Portfolio):** * **PT:** Design de bancos de dados relacionais e integridade de dados rigorosa.
      **EN:** Relational database design and rigorous data integrity.
 * **[Prime-Engine](https://github.com/kauandias747474-hue/prime-engine):** * **PT:** Interface e lógica de frontend em TypeScript.
@@ -39,7 +39,7 @@
 > **(PT-BR):** Gestão estratégica de dados e interfaces centradas no usuário. Design de bancos de dados otimizados para integridade e performance, combinados com frontends modernos que transformam dados complexos em experiências intuitivas e rápidas.  
 > **(EN-US):** Strategic data management and user-centric interfaces. Designing databases optimized for integrity and performance, paired with modern frontends that transform complex data into intuitive, high-speed experiences.
 
-### 💎 Architecture & Workflow Automation
+###  Architecture & Workflow Automation
 
 * **[Ruby-Orchestrator](https://github.com/kauandias747474-hue/Ruby-Orchestrator):**
     * **PT:** Governança de execução, pipelines resilientes e automação de workflows complexos.
@@ -57,7 +57,7 @@
 > **(EN-US):** Focused on complex process orchestration and execution governance. Developing resilient workflow engines that transform fragile scripts into governed pipelines, ensuring traceability, fault tolerance, and logical decoupling.
 
 
-### 🏗️ (In Construction / Em Construção)
+###  (In Construction / Em Construção)
 
 | Project | Language | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
@@ -65,7 +65,7 @@
 | **C#-Stream** | C# (.NET 9) | Channels, SignalR, BackgroundService | 🛠️ Building Core Engine |
 ---
 
-### 🌐 Languages | Idiomas
+###  Languages | Idiomas
 
 **Português Nativo** &nbsp;|&nbsp; **Technical English (Advanced)** ---
 
