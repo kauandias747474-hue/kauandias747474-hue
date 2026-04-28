@@ -77,6 +77,9 @@
     <img src="https://img.shields.io/github/stars/kauandias747474-hue?style=flat-square&color=yellow&label=Stars" />
     <img src="https://img.shields.io/github/followers/kauandias747474-hue?style=flat-square&color=blue&label=Followers" />
   </a>
+  <a href="https://stackoverflow.com/users/32471198/kauan-dias">
+    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-F48024?style=flat-square&logo=stackoverflow&logoColor=white" />
+  </a>
   <a href="https://dev.to/kauan_dias_dcb9e0566058a5">
     <img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=flat-square&logo=devto&logoColor=white" />
   </a>
