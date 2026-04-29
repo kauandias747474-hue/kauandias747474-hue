@@ -17,52 +17,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,go,java,cpp,php,py,ruby,ts,js,nextjs,react,tailwindcss,mysql,postgres,docker,git,linux,kali" />
 </p>
 
-##  (All Projects)
-
-
-###  Backend & Enterprise Engineering
-* **[PHP-CORE](https://github.com/kauandias747474-hue/PHP-CORE):**  **PT:** Backend seguro e arquitetura limpa aplicada ao ecossistema PHP.
-  **EN:** Secure backend and clean architecture applied to the PHP ecosystem. (Completo/Complete)
-* **[Python-UHI](https://github.com/kauandias747474-hue/Python-Ultra-Hardened-Infrastructure-UHI-):** * **PT:** Automação de infraestrutura e lógica avançada (Decorators, Generators).
-  **EN:** Infrastructure automation and advanced logic (Decorators, Generators). (Completo/Complete)
-  
-> **(PT-BR):** Foco na criação de sistemas corporativos robustos e escaláveis. Aplicação rigorosa de padrões de design (SOLID, Clean Architecture) e desenvolvimento orientado a contratos para garantir que o software seja fácil de manter e evoluir a longo prazo.  
-> **(EN-US):** Focused on building robust and scalable enterprise systems. Strict application of design patterns (SOLID, Clean Architecture) and contract-driven development to ensure software is maintainable and evolvable over the long term.
-
-
-###  Data Engineering & UI
-* **[SQL-Architecture](https://github.com/kauandias747474-hue/-SQL-Architecture-Data-Engineering-Portfolio):** * **PT:** Design de bancos de dados relacionais e integridade de dados rigorosa.
-     **EN:** Relational database design and rigorous data integrity.
-* **[Prime-Engine](https://github.com/kauandias747474-hue/prime-engine):** * **PT:** Interface e lógica de frontend em TypeScript.
-  **EN:** Frontend interface and logic in TypeScript. (Em Construção/In Construction)
-  
-> **(PT-BR):** Gestão estratégica de dados e interfaces centradas no usuário. Design de bancos de dados otimizados para integridade e performance, combinados com frontends modernos que transformam dados complexos em experiências intuitivas e rápidas.  
-> **(EN-US):** Strategic data management and user-centric interfaces. Designing databases optimized for integrity and performance, paired with modern frontends that transform complex data into intuitive, high-speed experiences.
-
-###  Architecture & Workflow Automation
-
-* **[Ruby-Orchestrator](https://github.com/kauandias747474-hue/Ruby-Orchestrator):**
-    * **PT:** Governança de execução, pipelines resilientes e automação de workflows complexos.
-    * **EN:** Execution governance, resilient pipelines, and complex workflow automation. 
-
-* **[Java-Ecosystem](https://github.com/kauandias747474-hue/Java-Ecosystem):**
-    * **PT:** Engenharia corporativa seguindo rigorosamente SOLID e Clean Architecture.
-    * **EN:** Enterprise engineering strictly following SOLID and Clean Architecture. (Em Construção/In Construction)
- 
-* **[Real-Time Metrics](https://github.com/kauandias747474-hue/Real-Time-Metrics):**
-   * **PT:** Motor de telemetria multilinguagem (Rust/C++/Go/Python) com otimizações SIMD e estruturas lock-free para processamento de dados massivos.
-   * **EN:** Multi-language telemetry engine (Rust/C++/Go/Python) featuring SIMD optimizations and lock-free structures for massive data processing.(Em Construção/In Construction)
- 
-> **(PT-BR):** Foco na orquestração de processos complexos e governança de execução. Desenvolvimento de motores de workflow resilientes que transformam scripts frágeis em pipelines governados, garantindo rastreabilidade, tolerância a falhas e desacoplamento lógico.
-> **(EN-US):** Focused on complex process orchestration and execution governance. Developing resilient workflow engines that transform fragile scripts into governed pipelines, ensuring traceability, fault tolerance, and logical decoupling.
-
-
-###  (In Construction / Em Construção)
-
-| Project | Language | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **Go-Gateway** | Go (Golang) | Goroutines, Rate Limiting, Circuit Breaker | 🛠️ Scaling Infrastructure |
-| **C#-Stream** | C# (.NET 9) | Channels, SignalR, BackgroundService | 🛠️ Building Core Engine |
 ---
 
 ###  Languages | Idiomas
