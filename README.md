@@ -37,8 +37,10 @@
   <a href="https://dev.to/kauan_dias_dcb9e0566058a5">
     <img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=flat-square&logo=devto&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/kauan747474/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ### Connect | Contato
