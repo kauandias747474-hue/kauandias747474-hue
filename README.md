@@ -69,7 +69,7 @@
 
 **Português Nativo** &nbsp;|&nbsp; **Technical English (Advanced)** ---
 
-### 📊 Activity | Atividade
+###  Activity | Atividade
 
 <p align="left">
   <a href="https://github.com/kauandias747474-hue">
