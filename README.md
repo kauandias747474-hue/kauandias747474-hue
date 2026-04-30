@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
 </p>
----
+
 
 ### Connect | Contato
 
