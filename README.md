@@ -10,12 +10,12 @@
 *  **Learning | Aprendizado:** Performance optimization & Resilience patterns / Otimização de performance & Padrões de resiliência.
 *  **Location | Localização:** Rio de Janeiro, Brazil 🇧🇷
 ---
-
-###  Stacks
+###  Tech Stack & Engineering Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/iconsi=c,cs,dotnet,rust,go,java,cpp,php,py,ruby,ts,js,nextjs,react,tailwindcss,mysql,postgres,docker,git"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,java,cs,dotnet,py,php,ruby,ts,js,nextjs,react,tailwind,mysql,postgres,docker,git&perline=11" />
 </p>
+
 
 ---
 
