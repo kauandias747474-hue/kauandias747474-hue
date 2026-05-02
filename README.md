@@ -6,8 +6,6 @@
 
 *EN: 19-year-old Software Engineer focused on distributed systems and high-performance infrastructure. Specialized in designing resilient ecosystems and scalable architectures, driven by technical rigor and data integrity in every delivery.*
 
-*  **Focus | Foco:** Systems Architecture & Distributed Infrastructure / Arquitetura de Sistemas & Infraestrutura Distribuída.
-*  **Learning | Aprendizado:** Performance optimization & Resilience patterns / Otimização de performance & Padrões de resiliência.
 *  **Location | Localização:** Rio de Janeiro, Brazil 🇧🇷
 ---
 ###  Tech Stack & Engineering Tools
