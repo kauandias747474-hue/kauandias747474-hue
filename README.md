@@ -11,7 +11,7 @@
 ###  Tech Stack & Engineering Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,java,cs,dotnet,py,php,ruby,ts,js,nextjs,react,tailwind,mysql,postgres,docker,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,java,cs,dotnet,py,php,ruby,lua,ts,js,nextjs,react,tailwind,mysql,postgres,docker,git&perline=11" />
 </p>
 
 
