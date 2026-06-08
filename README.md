@@ -50,6 +50,7 @@
   <a href="https://discord.com/users/kauandias747474_hue"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/kauandias747474-hue"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
+<img src="https://algora.io/og/user/kauandias747474-hue" />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauandias747474-hue&theme=tokyonight)](https://git.io/streak-stats)
